@@ -28,11 +28,11 @@ This project is a **custom AI-powered chatbot** built with LangChain and Hugging
 ## ⚙️ Setup Instructions
 
 1. **Clone the Repository**
-```bash
-git clone https://github.com/saihajkaur006/Chatbot.git
-cd Chatbot
-```
-2. **Create & Activate Virtual Environment
+   ```bash
+   git clone https://github.com/saihajkaur006/Chatbot.git
+   cd Chatbot
+   ```
+2. **Create & Activate Virtual Environment**
    ```bash
     python -m venv venv
     # Windows
@@ -40,15 +40,15 @@ cd Chatbot
     # Mac/Linux
     source venv/bin/activate
    ```
-3. **Install Requirements
+3. **Install Requirements**
    ```bash
      pip install -r requirements.txt
    ```
-4. **Add your HuggingFace API token in .env
+4. **Add your HuggingFace API token in .env**
    ```bash
     HUGGINGFACEHUB_API_TOKEN=your_token_here
    ```
-5. **Run the Notebook
+5. **Run the Notebook**
    Open demo.ipynb and start interacting with the college chatbot.
 
 ---
